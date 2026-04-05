@@ -1,3 +1,5 @@
+**instructions for windows system**
+
 - my os is **windows**, my shell is **powershell**
 - if you need to install a shell command, then use the command **Chocolatey** to install new shell commands
 - to run a shell command, use the tool `powershell_exec`

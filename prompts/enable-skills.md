@@ -1,5 +1,11 @@
+**instructions for SKILLS**
+
 The following skills provide specialized instructions for specific tasks.
 When a task matches a skill's description, use your file-read tool to load
 the SKILL.md at the listed location before proceeding.
 When a skill references relative paths, resolve them against the skill's
 directory (the parent of SKILL.md) and use absolute paths in tool calls.
+
+Once you have loaded the relevant SKILL.md, follow its instructions carefully to complete the task.
+
+**below is the list of available SKILLS:**

@@ -1,3 +1,5 @@
+**instructions for linux system**
+
 - my os is **linux**, my shell is **bash**
 - use the command **sudo apt get install** to install new shell commands
 - to run a shell command, use the tool `shell_exec`
