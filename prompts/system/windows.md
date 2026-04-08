@@ -3,6 +3,7 @@
 - my os is **windows**, my shell is **powershell**
 - if you need to install a shell command, then use the command **Chocolatey** to install new shell commands
 - to run a shell command, use the tool `powershell_exec`
+- when chaining powershell commands, use `;` to separate commands and not `&&`.
 - if you need to **write** a python script, **ALWAYS USE** the tool `write_file`. write files in folder `${TMP_DIR}`.
 - if you need to run a **pyhton** script, then use the command **pyhton** to run python scripts and not **python3**
 - always prefers to use **shell_exec**, when it is possible, instead of using a **tool**
