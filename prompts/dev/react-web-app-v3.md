@@ -1,0 +1,2 @@
+code a new web application using react and the best modern frontend and backend frameworks in the folder: `E:\DEV\repos\auto-agents\cli\tmp\webapp`.
+I want to use the latest version of React and Next.js for the frontend, and Node.js with Express for the backend. The app should have a simple landing page that displays "Hello, World!" and a backend API endpoint that returns a JSON response with a message. Please provide the complete code for both the frontend and backend, along with setup instructions.
