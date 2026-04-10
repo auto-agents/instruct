@@ -39,8 +39,8 @@ free text should be ignored, it is only for human readability and comments
 
 - code a new web application in the folder: `{{BASE_DIR}}/tmp/webapp`, that uses react and the best modern frontend and backend frameworks
 
-- code a new web application in the folder: `E:\DEV\repos\auto-agents\cli\tmp\webapp`, that uses react and the best modern frontend and backend frameworks
+- code a new web application in the folder: `E:\tmp\webapp`, that uses react and the best modern frontend and backend frameworks. directly code the files do not prepare a plan.
 
-- code a new web application in the folder: `/mnt/e/dev/repos/auto-agents/cli/tmp/webapp`, that uses react and the best modern frontend and backend frameworks
+- code a new web application in the folder: `/mnt/e/tmp`, that uses react and the best modern frontend and backend frameworks. directly code the files do not prepare a plan.
 
 - apply the plan
