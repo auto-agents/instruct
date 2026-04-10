@@ -7,7 +7,7 @@
 batch syntax:
 
 replace vars:
-	{{cli_env_var}}
+	{{cli_env_var}}		value from cli environment variables
 
 lines starting with '-' are ai agent prompt, until next other directive line
 - ai prompt
@@ -16,7 +16,11 @@ lines starting with '/' are cli commands, until the end of the line
 /cli_command
 
 \```
-texts blocks are ignored
+texts blocks for any syntax are ignored
+\```
+
+\```js
+javascript syntax texts blocks are used to write code, and the content will be used as code to execute
 \```
 
 lines starting with # (titles) are ignored
@@ -43,4 +47,4 @@ free text should be ignored, it is only for human readability and comments
 
 - code a new web application in the folder: `/mnt/e/tmp/webapp`, that uses react and the best modern frontend and backend frameworks. directly code the files do not prepare a plan.
 
-- apply the plan
+- apply your plan and write the files
