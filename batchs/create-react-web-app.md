@@ -39,12 +39,10 @@ free text should be ignored, it is only for human readability and comments
 
 - list available skills
 
-- **ALWAYS** use `;` to separate commands (eg. in powershell_exec or shell_exec command argument) and **NEVER** `&&`.
-
 - code a new web application in the folder: `{{BASE_DIR}}/tmp/webapp`, that uses react and the best modern frontend and backend frameworks
 
 - code a new web application in the folder: `E:\tmp\webapp`, that uses react and the best modern frontend and backend frameworks. directly code the files do not prepare a plan.
 
 - code a new web application in the folder: `/mnt/e/tmp/webapp`, that uses react and the best modern frontend and backend frameworks. directly code the files do not prepare a plan.
 
-- apply your plan and write the files
+- apply your plan , make the folder structure, install the librairies and the frameworks, write the files
