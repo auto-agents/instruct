@@ -7,7 +7,8 @@
 batch syntax:
 
 replace vars:
-	{{cli_env_var}}		value from cli environment variables
+	${cli_env_var}		value from cli environment variables
+	{{var}}				value from context variables
 
 lines starting with '-' are ai agent prompt, until next other directive line
 - ai prompt
