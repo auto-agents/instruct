@@ -15,3 +15,6 @@ cherche des liens youtube pour des video de compilation de blues a la guitare. o
 cherche sur internet la météo à pontcharra, france.. n'ajoute pas de commentaire ni d'analyse avant ou après ou en réponse. répond par un tableau indiquant les
 couples propriétés / valeurs. ajoute un couple description / texte résumant la tendance météo.
 
+## search and open youtube links for a music artist
+
+cherche sur internet des liens youtube pour la musique 'tears in rain' du film bladerunner. puis ouvre les liens les plus pertinents dans le navigateur
