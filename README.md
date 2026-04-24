@@ -1,11 +1,9 @@
 <table>
 <tr>
 <td>
-<h1>Auto Agents</h1>
+<h1>Bulbing Bots</h1>
 
-*&gt; software agents & agents workflows orchestrator.*
-
-***Made by AI for AI. Includes AI Agent***
+LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 
 ---
 
@@ -20,7 +18,7 @@ This repository contains various **AI instructions** for both **agents** and the
 
 </td>
 <td>
-<img src="assets/agent-5.jfif" alt="Auto Agents" width="800/px">
+<img src="assets/agent-5.jfif" alt="Bulbing Bots" width="800/px">
 </td>
 </tr>
 </table>
