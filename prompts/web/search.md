@@ -18,3 +18,7 @@ couples propriétés / valeurs. ajoute un couple description / texte résumant l
 ## search and open youtube links for a music artist
 
 cherche sur internet des liens youtube pour la musique 'tears in rain' du film bladerunner. puis ouvre les liens les plus pertinents dans le navigateur
+
+## search news (after search response format change and size limited, with agent 'coder')
+
+search on internet the news of the day. respond with a list of 5 sentences. score and choose the most relevant articles from the search results, and summary it.
