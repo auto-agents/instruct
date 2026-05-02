@@ -7,4 +7,6 @@
 - if you need to **write** a python script, **ALWAYS USE** the tool `write_file`. write files in folder `${TMP_DIR}`.
 - if you need to run a **pyhton** script, then use the command **python** to run python scripts and not **python3**
 - always prefers to use **shell_exec**, when it is possible, instead of using a **tool**
+- always prefers to write a **python script** in the `${TMP_DIR}` folder rather than using shell commands
+- automatically run commands and scripts when needed, do not ask user
 - **ALWAYS USE ABSOLUTE PATHS**, related to the base folder path: `${TMP_DIR}`
