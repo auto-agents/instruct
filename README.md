@@ -7,7 +7,7 @@ LLM&nbsp;Agents&nbsp;Framework&nbsp;and&nbsp;tool
 
 ---
 
-<a href="https://github.com/auto-agents/assets"><b><h4>&bull; assets</h4></b></a>
+<a href="https://github.com/bulbing-bots/assets"><b><h4>&bull; assets</h4></b></a>
 
 This repository contains various **AI assets** for both **agents** and the **cli tool**:
 
